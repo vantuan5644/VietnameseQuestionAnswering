@@ -1,5 +1,3 @@
-# ML Production Template
-
 ## Codebase
 
 **`notebooks`:** **Explore and visualize your data** 
