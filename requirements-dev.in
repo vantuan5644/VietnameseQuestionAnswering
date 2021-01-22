@@ -1,0 +1,21 @@
+-c requirements.txt
+bandit
+black
+gpustat
+grequests 
+itermplot
+jupyterlab
+matplotlib
+mypy
+numpy
+pandas
+pycodestyle
+pydocstyle
+pylint
+pytest
+pyyaml
+tornado
+safety
+scipy
+pillow
+wandb

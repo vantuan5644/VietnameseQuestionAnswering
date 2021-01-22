@@ -1,0 +1,6 @@
+boltons
+flask
+h5py
+numpy
+requests
+tqdm
